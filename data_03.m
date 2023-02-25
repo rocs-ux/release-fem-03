@@ -25,7 +25,7 @@ Le = 1/4;                % Tamanho do elemento
 
 E = 2;                   % Módulo de Young
 
-A = 5;                   % Área 
+A = 10;                   % Área 
 
 dN1 = -1/2;              % Derivada da função de forma relativo ao primeiro nó
 
