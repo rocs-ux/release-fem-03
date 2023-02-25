@@ -23,7 +23,7 @@ L = 1;                   % Tamanho da barra
 
 Le = 1/4;                % Tamanho do elemento
 
-E = 2;                   % Módulo de Young
+E = 20;                   % Módulo de Young
 
 A = 10;                   % Área 
 
